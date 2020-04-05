@@ -1,11 +1,3 @@
-<h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src="frontend/public/devradar.svg" width="250px" />
-</h1>
-
-<p align="center">
-  <img alt="Frontend" src="frontend/public/devradar.png" width="70%">
-</p>
-
 <h2 align="center">
   SEMANA OMNISTACK 10
 </h2>
@@ -15,6 +7,13 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
+
+<p align="center">
+  <img alt="DevRadar" title="#delicinha" src="frontend/public/devradar.svg" width="250px" />
+  <img alt="Frontend" src="frontend/public/devradar.png" width="70%">
+</p>
+
+
 
 
 ## Tecnologias
