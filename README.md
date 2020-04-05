@@ -1,5 +1,7 @@
 <h1 align="center">
+  <br>
   🚀 Semana OmniStack 10.0
+  <br>
 </h1>
 
 <p align="center">   
