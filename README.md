@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src="frontend/public/devradar.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -54,7 +54,3 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
