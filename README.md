@@ -3,17 +3,17 @@
 </h1>
 
 <p align="center">   
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/semana-omnistack-10">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/Semana-OmniStack-10">
   
-  <a href="https://github.com/matheusasg09/semana-omnistack-9/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/semana-omnistack-9.svg">
+  <a href="https://github.com/matheusasg09/Semana-OmniStack-10/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/Semana-OmniStack-10">
   </a>
   
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">
-  <img alt="Frontend" src="frontend/public/devradar.png" width="70%">
+  <img alt="Frontend" src="frontend/public/devradar.png" width="80%">
 </p>
 
 ## Tecnologias
