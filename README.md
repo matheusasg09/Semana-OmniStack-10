@@ -9,13 +9,8 @@
 </p>
 
 <p align="center">
-  <img alt="DevRadar" title="#delicinha" src="frontend/public/devradar.svg" width="250px" />
-  <br>
   <img alt="Frontend" src="frontend/public/devradar.png" width="70%">
 </p>
-
-
-
 
 ## Tecnologias
 
