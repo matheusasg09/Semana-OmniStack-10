@@ -1,4 +1,4 @@
-<h1 align="center" style="padding: 5px">
+<h1 align="center">
   🚀 Semana OmniStack 10.0
 </h1>
 
