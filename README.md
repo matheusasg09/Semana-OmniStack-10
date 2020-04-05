@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src="frontend/public/devradar.svg" width="250px" />
+</h1>
+
 <h4 align="center">
   🚀 Semana OmniStack 10.0
 </h4>
@@ -20,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="frontend/public/devradar.png" width="100%">
+  <img alt="Frontend" src="frontend/public/devradar.png" width="70%">
 </p>
 
 ## :rocket: Tecnologias
