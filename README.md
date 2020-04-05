@@ -1,8 +1,7 @@
-<h1 align="center">
-  <br>
+<h1 align="center" style="padding: 5px">
   🚀 Semana OmniStack 10.0
 </h1>
-<br>
+
 <p align="center">   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/semana-omnistack-10">
 
