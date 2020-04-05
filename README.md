@@ -5,14 +5,8 @@
 <h4 align="center">
   🚀 Semana OmniStack 10.0
 </h4>
-<p align="center">
+<p align="center">   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/semana-omnistack-10">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/matheusasg09/semana-omnistack-10">
-  
-  <a href="https://github.com/matheusasg09/semana-omnistack-10/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusasg09/semana-omnistack-10">
-  </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -23,7 +17,7 @@
   <img alt="Frontend" src="frontend/public/devradar.png" width="70%">
 </p>
 
-## :rocket: Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -32,10 +26,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## Projeto
 
 O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
 
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT.
