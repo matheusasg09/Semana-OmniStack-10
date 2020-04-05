@@ -2,20 +2,20 @@
     <img alt="DevRadar" title="#delicinha" src="frontend/public/devradar.svg" width="250px" />
 </h1>
 
+<p align="center">
+  <img alt="Frontend" src="frontend/public/devradar.png" width="70%">
+</p>
+
 <h2 align="center">
   SEMANA OMNISTACK 10
 </h2>
+
 <p align="center">   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusasg09/semana-omnistack-10">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<br>
-
-<p align="center">
-  <img alt="Frontend" src="frontend/public/devradar.png" width="70%">
-</p>
 
 ## Tecnologias
 
